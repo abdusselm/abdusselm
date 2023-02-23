@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Abdusselam Keskin
 
 **iOS Developer**

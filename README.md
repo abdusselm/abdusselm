@@ -2,7 +2,7 @@
 
 # Abdusselam Keskin
 
-iOS Developer
+**iOS Developer**
 
 Aşağıda son geliştirdiğim uygulamadan ilk geliştirdiğim iOS uygulamasına kadar tüm yazdığım uygulamaları görebilirsiniz.
 

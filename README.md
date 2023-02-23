@@ -24,7 +24,7 @@ Web servis kullanılarak(JSON), seçilen para birimine göre Bitcoin'in güncel 
 
 ---
 
-## Destini iOS App
+## Destini iOS App
 
 Karşımıza çıkan senaryoya göre seçimler yapabileceğimiz ve bu seçimlerin hikayeyi farklı sonlarda olacak şekilde bitirilmesini sağlayan, soru cevap şeklinde ilerleyen bir oyun App'i.
 

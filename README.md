@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-abdusselm / README.md
-
-## Abdusselam Keskin
----
+# Abdusselam Keskin
 
 iOS Developer
 

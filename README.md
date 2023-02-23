@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# **Abdusselam Keskin**
+# Abdusselam Keskin
 
 iOS Developer
 
@@ -10,17 +10,17 @@ Aşağıda son geliştirdiğim uygulamadan ilk geliştirdiğim iOS uygulamasına
 
 Whatsapp uygulaması gibi mesajlaşmayı sağlayan bir uygulama.
 
-* ![WelcomeScreen](/flashChatWelcome.png)
+ ![WelcomeScreen](/flashChatWelcome.png)
 
-* ![ChatScreen](/flashChatScreen.png)
+ ![ChatScreen](/flashChatScreen.png)
 
 ---
 
-## ByteCoin iOS App
+## ByteCoin iOS App
 
 Web servis kullanılarak(JSON), seçilen para birimine göre Bitcoin'in güncel fiyatını gösteren iOS App'i.
 
-* ![ByteCoin](/byteCoin.png)
+ ![ByteCoin](/byteCoin.png)
 
 ---
 
@@ -28,9 +28,9 @@ Web servis kullanılarak(JSON), seçilen para birimine göre Bitcoin'in güncel 
 
 Karşımıza çıkan senaryoya göre seçimler yapabileceğimiz ve bu seçimlerin hikayeyi farklı sonlarda olacak şekilde bitirilmesini sağlayan, soru cevap şeklinde ilerleyen bir oyun App'i.
 
-* ![DestiniFirstChoice](/destiniFirstChoice.png)
+ ![DestiniFirstChoice](/destiniFirstChoice.png)
 
-* ![destiniAfterFirstSelect](/destiniAfterFirstSelect.png)
+ ![destiniAfterFirstSelect](/destiniAfterFirstSelect.png)
 
 ---
 
@@ -38,17 +38,17 @@ Karşımıza çıkan senaryoya göre seçimler yapabileceğimiz ve bu seçimleri
 
 Konuma veya aratılan şehre göre mevcut hava durumunu web servisler aracalığıyla gösteren App.
 
-* ![ClimaLocationRequest](/climaLocationRequest.png)
+ ![ClimaLocationRequest](/climaLocationRequest.png)
 
-* ![ClimaRequestResult](/climaRequestResult.png)
+ ![ClimaRequestResult](/climaRequestResult.png)
 
 ## Tipsy iOS App
 
-Toplam meblağı ödeyen kişi sayısı ve seçilen bahşişe oranına göre kişi başı ne kadar para ödenileceğini gösteren App.
+Toplam meblağı ödeyen kişi sayısı ve seçilen bahşiş oranına göre kişi başı ne kadar para ödenileceğini gösteren App.
 
-* ![TipsyResultBillTotal](/tipsyEnterBillTotal.png)
+ ![TipsyResultBillTotal](/tipsyEnterBillTotal.png)
 
-* ![TipsyResultBillTotal](/tipsyResultBillTotal.png)
+ ![TipsyResultBillTotal](/tipsyResultBillTotal.png)
 
 ---
 
@@ -56,7 +56,7 @@ Toplam meblağı ödeyen kişi sayısı ve seçilen bahşişe oranına göre ki�
 
 Bir yumurtanın pişirme usülüne göre geri sayım yapan iOS App.
 
-* ![EggTimer](/eggTimer.png)
+ ![EggTimer](/eggTimer.png)
 
 ---
 
@@ -64,12 +64,12 @@ Bir yumurtanın pişirme usülüne göre geri sayım yapan iOS App.
 
 Ekranda ki farklı notalara basarak o notalara ait sesleri çıkaran Ksilofon App'i.
 
-* ![XylOphone](/xylOphone.png)
+ ![XylOphone](/xylOphone.png)
 
 
 
 <!--
-**abdusselm/abdusselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abdusselm/abdusselm is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
